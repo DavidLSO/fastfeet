@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {useDispatch} from 'react-redux';
-import logo from '~/assets/fastfeet-logo.svg';
+import logo from '~/assets/fastfeet-logo-light.png';
 
 import {signInRequest} from '~/store/modules/auth/actions';
 import {Container, Form, Logo, Button, Text, InputForm} from './styles';
